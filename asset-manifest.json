@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gatherup/static/css/main.f855e6bc.css",
+    "main.js": "/gatherup/static/js/main.6679dff3.js",
+    "static/js/453.d559a52f.chunk.js": "/gatherup/static/js/453.d559a52f.chunk.js",
+    "service-worker.js": "/gatherup/service-worker.js",
+    "static/media/logo.svg": "/gatherup/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/gatherup/index.html",
+    "main.f855e6bc.css.map": "/gatherup/static/css/main.f855e6bc.css.map",
+    "main.6679dff3.js.map": "/gatherup/static/js/main.6679dff3.js.map",
+    "453.d559a52f.chunk.js.map": "/gatherup/static/js/453.d559a52f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6679dff3.js"
+  ]
+}
